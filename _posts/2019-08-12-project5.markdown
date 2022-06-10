@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "연구과제 참여(ITRC)"
+date:   2019-01-12 14:16:03 +0900
+categories: ITRC
+---
+2018년 1월부터 2019년 1월까지 의료 빅데이터를 활용한 뇌질환 예측·예방 기술개발 및 전문인력 양성 프로그램에 참여. 각 세부 팀의 의료 빅데이터 공유 및 활용을 위한 오픈 플랫폼 기술 개발에 참여.
+
+
+<img src="/assets/project5/Slide31.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project5/Slide32.jpg" width="1200px" title="" alt=""><br/>
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

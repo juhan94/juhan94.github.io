@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "교내 팀 프로젝트(졸업 프로젝트)"
+date:   2018-03-10 14:16:03 +0900
+categories: Android Firebase
+---
+Firebase의 실시간 데이터베이스를 이용하여, 지인들과 여행 스케줄을 실시간으로 공유하며 작성할 수 있도록 앱을 개발함. 항공편 조회부터 맛집 조회까지 다양한 항목을 스케줄에 추가하고 추천 경로를 제공함.
+
+
+<img src="/assets/project3/Slide13.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project3/Slide14.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project3/Slide15.jpg" width="1200px" title="" alt=""><br/>
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

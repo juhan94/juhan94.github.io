@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "교내 팀 프로젝트(서버 프로그래밍)"
+date:   2017-10-10 14:16:03 +0900
+categories: Node.js
+---
+3학년 2학기 Node.js 기반 서버프로그래밍 과목에서 Javascript, Node.js, Linux(CentOS7), MariaDB, npm 등을 사용하여 프로젝트를 진행. 3인 1조의 팀에서 팀장을 맡아 프로젝트 관리, 발표, 개발 등을 주도적으로 해냄으로써 A+ 성적을 받음.
+
+
+<img src="/assets/project1/Slide5.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project1/Slide6.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project1/Slide7.jpg" width="1200px" title="" alt=""><br/>
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

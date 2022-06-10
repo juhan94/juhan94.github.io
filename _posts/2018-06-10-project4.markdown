@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "산학연 협력 프로젝트"
+date:   2018-06-10 14:16:03 +0900
+categories: Spring
+---
+2018년 초부터 10월까지 특수 목적용 기계 제조업 회사와 타 연구실과 함께 스마트공장 활성화를 위한 산학연 협력 프로젝트를 진행함. 실시간 계측 모니터링 서버 개발 팀에서 원활한 협업을 위해 힘씀.
+
+
+<img src="/assets/project4/Slide19.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project4/Slide20.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project4/Slide21.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project4/Slide22.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project4/Slide23.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project4/Slide24.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project4/Slide25.jpg" width="1200px" title="" alt=""><br/>
+<img src="/assets/project4/Slide26.jpg" width="1200px" title="" alt=""><br/>
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
