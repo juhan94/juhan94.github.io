@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "교내 팀 프로젝트(졸업 프로젝트)"
+title:  "Firebase 실시간 데이터베이스를 이용한 실시간 공유 해외 여행 스케줄러 앱 개발(졸업 프로젝트)"
 date:   2018-03-10 14:16:03 +0900
 categories: Android Firebase
 ---
